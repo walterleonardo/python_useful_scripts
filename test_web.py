@@ -1,3 +1,7 @@
+"""
+Final step for Pipeline, check if the web services is running. 
+"""
+
 import requests
 import json
 import  logging
