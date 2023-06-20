@@ -1,0 +1,3 @@
+host1, 192.168.1.1, user, password_or_key
+host2, 10.0.0.1, user, password_or_key
+host3, 172.16.0.1, user, password_or_key
